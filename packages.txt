@@ -1,0 +1,2 @@
+npm install --save crypto-js
+npm install elliptic
